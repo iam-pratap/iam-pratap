@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Terraform and Azure**
 
-- 💬 Ask me about **Docker,Kubernetes**
+- 💬 Ask me about **Cloud Computing, Docker, Kubernetes**
 
 - 📫 How to reach me **honeypratap98@gmail.com**
 
