@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Honey Pratap</h1>
-<h3 align="center">A passionate aspiring DevOps Engineer from India</h3>
+<h3 align="center">A passionate aspiring Cloud & DevOps Engineer from India</h3>
 
-- 🌱 I’m currently learning **Terraform and Azure**
+- 🌱 I’m currently learning **Python and Azure**
 
-- 💬 Ask me about **Cloud Computing, Docker, Kubernetes**
+- 💬 Ask me about **Cloud Computing, Docker, Kubernetes, Terraform**
 
 - 📫 How to reach me **honeypratap98@gmail.com**
 
